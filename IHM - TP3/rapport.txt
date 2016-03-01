@@ -1,0 +1,7 @@
+Dans le cas où l'on voudrait recréer une fênetre a zéro.
+
+Parce que la méthode pack fait en sorte que la taille de la window soit adapté a tous ses sous composants et donc, et donc le centrage de la fênetre s'adaptera.
+
+Le Label est toujours centré verticalement, et le titre de la barre est centré horizontalement.
+
+Le processus ne s'arrête pas, il y a juste la fênetre qui se ferme.
